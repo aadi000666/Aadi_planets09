@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aadi_planets09/static/css/main.378cf379.css",
+    "main.js": "/Aadi_planets09/static/js/main.67c4efd6.js",
+    "index.html": "/Aadi_planets09/index.html",
+    "main.378cf379.css.map": "/Aadi_planets09/static/css/main.378cf379.css.map",
+    "main.67c4efd6.js.map": "/Aadi_planets09/static/js/main.67c4efd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.378cf379.css",
+    "static/js/main.67c4efd6.js"
+  ]
+}
